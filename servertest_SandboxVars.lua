@@ -1,6 +1,6 @@
 SandboxVars = {
     VERSION = 4,
-    Zombies = 3,
+    Zombies = 4,
     Distribution = 1,
     DayLength = 3,
     StartYear = 1,
@@ -58,7 +58,7 @@ SandboxVars = {
     AnnotatedMapChance = 4,
     CharacterFreePoints = 0,
     ConstructionBonusPoints = 3,
-    NightDarkness = 3,
+    NightDarkness = 4,
     InjurySeverity = 2,
     BoneFracture = true,
     HoursForCorpseRemoval = 216.0,
@@ -97,7 +97,7 @@ SandboxVars = {
     },
     ZombieLore = {
         Speed = 2,
-        Strength = 2,
+        Strength = 3,
         Toughness = 2,
         Transmission = 1,
         Mortality = 5,
