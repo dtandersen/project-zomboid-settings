@@ -113,8 +113,8 @@ SandboxVars = {
         ThumpOnConstruction = true,
         ActiveOnly = 1,
         TriggerHouseAlarm = true,
-        ZombiesDragDown = true,
-        ZombiesFenceLunge = true,
+        ZombiesDragDown = false,
+        ZombiesFenceLunge = false,
     },
     ZombieConfig = {
         PopulationMultiplier = 1.0,
